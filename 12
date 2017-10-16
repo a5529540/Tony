@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Page Title</title>
+</head>
+<body>
+<a id="First"></a>
+<h1>Hello,臺東大學</h1>
+<HR>
+<p>My First Paragraph<p>
+<p>想回家</p>
+<br>
+<A HREF="https://www.krtco.com.tw/"target="blank">按我回家</A>
+<br>
+<a href="MirrorNight.html">去聽音樂</a>
+<br>
+<br>
+<br>
+<a href="#First">回頂端</a>
+</body>
+</html>
